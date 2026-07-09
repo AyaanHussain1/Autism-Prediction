@@ -53,7 +53,7 @@ autism-prediction/
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/autism-prediction.git
+git clone https://github.com/AyaanHussain1/autism-prediction.git
 cd autism-prediction
 
 # Install dependencies
