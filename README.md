@@ -9,7 +9,7 @@ Autism screening tools like the AQ-10 (Autism Spectrum Quotient) are widely used
 The project covers the full pipeline: exploratory data analysis, preprocessing, model selection with hyperparameter tuning, and a deployed Streamlit app for real-time predictions.
 
 ## Demo
-
+🔗 **Live Demo:** [autism-prediction.streamlit.app](https://autism-model-prediction.streamlit.app/)
 The app supports two modes:
 - **Single input** — fill out the AQ-10 form for one person and get an instant probability
 - **Batch prediction** — upload a CSV/Excel file of multiple records and download predictions for all of them
